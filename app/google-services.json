@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626287999864",
+    "project_id": "fir-demo-e66c2",
+    "storage_bucket": "fir-demo-e66c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626287999864:android:6cd9c348b7b18b47ffa68d",
+        "android_client_info": {
+          "package_name": "com.lavan.firebasedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626287999864-rvsngu5p0jlnjk1ief13nf5p7711e5he.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0UO_IRV_lZbgAOv7loxJEfavHCjTN1Bs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626287999864-rvsngu5p0jlnjk1ief13nf5p7711e5he.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
